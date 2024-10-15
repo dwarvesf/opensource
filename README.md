@@ -31,4 +31,4 @@ Here are the pull requests made by Dwarves community members to various open-sou
 | [Update env configuration for development](https://github.com/kinopio-club/kinopio-apple/pull/1)               | [kinopio-apple](https://github.com/kinopio-club/kinopio-apple) | [phucledien](https://github.com/phucledien)     |
 | [Add OpenAI's new structured output API](https://github.com/brainlid/langchain/pull/180)                       | [brainlid/langchain](https://github.com/brainlid/langchain)    | [monotykamary](https://github.com/monotykamary) |
 
-> **Note:** Contributed to an open-source project? Submit a PR to include your contribution in the Hall of Fame!
+> **Note:** Contributed to an open-source project? Submit a PR to include your contribution in the list!
