@@ -30,5 +30,6 @@ Here are the pull requests made by Dwarves community members to various open-sou
 | [Add typescript example for agent simulation evaluation](https://github.com/langchain-ai/langgraphjs/pull/467) | [langgraphjs](https://github.com/langchain-ai/langgraphjs)     | [nnhuyhoang](https://github.com/nnhuyhoang)     |
 | [Update env configuration for development](https://github.com/kinopio-club/kinopio-apple/pull/1)               | [kinopio-apple](https://github.com/kinopio-club/kinopio-apple) | [phucledien](https://github.com/phucledien)     |
 | [Add OpenAI's new structured output API](https://github.com/brainlid/langchain/pull/180)                       | [brainlid/langchain](https://github.com/brainlid/langchain)    | [monotykamary](https://github.com/monotykamary) |
+| [Fix default to False if stream is unavailable](https://github.com/open-webui/open-webui/pull/6261)            | [open-webui](https://github.com/open-webui)                    | [monotykamary](https://github.com/monotykamary) |
 
 > **Note:** Contributed to an open-source project? Submit a PR to include your contribution in the list!
