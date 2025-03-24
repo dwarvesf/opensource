@@ -1,0 +1,3 @@
+[submodule "github-agent"]
+	path = github-agent
+	url = https://github.com/dwarvesf/github-agent
