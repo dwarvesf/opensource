@@ -32,7 +32,7 @@
 	path = auto-dnd
 	url = https://github.com/dwarvesf/auto-dnd
 [submodule "sudo-fn-macos"]
-	path = sudo-fn-macos
+	path = sudo-fm-macos
 	url = https://github.com/dwarvesf/sudo-fm-macos
 [submodule "yggdrasil"]
 	path = yggdrasil
