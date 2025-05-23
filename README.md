@@ -8,6 +8,8 @@ authors:
 tags:
   - open-source
   - community
+redirect:
+  - /s/BBiaRA
 ---
 
 So much of the software we rely on every day is built on open source projects. We believe wholeheartedly that embracing open source makes our products the best they can be.
